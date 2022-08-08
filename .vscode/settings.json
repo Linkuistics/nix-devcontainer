@@ -9,5 +9,6 @@
                 "cmd": "nixEnvSelector.hitEnv"
             }
         ]
-    }
+    },
+    "editor.formatOnType": true
 }
